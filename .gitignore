@@ -1,0 +1,9 @@
+/.settings/
+/Debug/
+/Release/
+/BUILD/
+/lib/
+/librdg.so
+/librdg-d.so
+/rdg-tests-unitaires/
+/tests-d
